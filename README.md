@@ -78,9 +78,13 @@ The dashboard provides:
 
 ---
 
-## 📸 Screenshots
+## 📊 Dashboard Screenshots
 
-*Add dashboard screenshots here*
+### Executive Overview
+![Dashboard Main](images/dashboard_main.png)
+
+### Business Insights
+![Dashboard Insights](images/dashboard_insights.png)
 
 ---
 
