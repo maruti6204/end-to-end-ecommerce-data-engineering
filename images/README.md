@@ -1,12 +1,16 @@
 ## 🏗️ Architecture
-![Architecture](images/architecture.png)
+![Architecture](architecture.png)
 
 ## 🔄 Data Transformation
-![Transformation](images/transformation.png)
+![Transformation](transformation.png)
 
 ## 🥇 Gold Layer Output
-![Gold Table](images/gold_table.png)
+![Gold Table](gold_table.png)
 
 ## 📊 Dashboard
-![Main](images/dashboard_main.png)
-![Insights](images/dashboard_insights.png)
+
+### Executive Overview
+![Main](dashboard_main.png)
+
+### Business Insights
+![Insights](dashboard_insights.png)
